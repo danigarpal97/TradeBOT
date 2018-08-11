@@ -1,0 +1,15 @@
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.dll
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Telegram.Bot.xml
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.dll
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\Google.Protobuf.dll
+C:\Users\Shiro\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\MySql.Data.xml

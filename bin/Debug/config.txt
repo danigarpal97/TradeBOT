@@ -1,0 +1,5 @@
+channel=-1001314537377
+dbip=localhost
+dbuser=root
+dbpass=hola
+dbport=3306
